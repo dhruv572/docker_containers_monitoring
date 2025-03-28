@@ -3,4 +3,4 @@ This repo will demonstrate how you can achieve metrics of your docker containers
 
 pre-requisite: you'll need opsverse-agent installed and several docker containers running on your system/instance.
 
-1. Create a scrip file which will gather metrics 
+1. Create a script file which will gather metrics from running containers.
